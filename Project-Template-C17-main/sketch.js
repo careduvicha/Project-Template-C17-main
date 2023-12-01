@@ -224,7 +224,7 @@ function reset(){
  redCG.destroyEach();
   
  distance = 0;
-}
+} 
 
 //function reset(){
 //  gameState = END;
